@@ -1,3 +1,4 @@
+import "./Employees.css";
 function Employees() {
   return (
     <section className="about" id="specialists">

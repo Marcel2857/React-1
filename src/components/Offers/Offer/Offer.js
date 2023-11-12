@@ -1,3 +1,5 @@
+import "./Offer.css";
+
 function Offer({ offer }) {
   return (
     <div className="square">
